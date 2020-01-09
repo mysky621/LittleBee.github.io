@@ -1,1 +1,0 @@
-webpackJsonp([355],{"/IAv":function(d,t,c){d.exports=c.p+"static/media/bg_BG.d.d9bdcd45.ts"}});

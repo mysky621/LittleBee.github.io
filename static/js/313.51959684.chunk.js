@@ -1,1 +1,0 @@
-webpackJsonp([313],{nS0t:function(t,s,a){t.exports=a.p+"static/media/sk_SK.d.245adb2b.ts"}});

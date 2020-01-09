@@ -1,1 +1,0 @@
-webpackJsonp([344],{wlKj:function(a,t,c){a.exports=c.p+"static/media/fa_IR.d.c4d48afb.ts"}});
